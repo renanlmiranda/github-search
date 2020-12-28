@@ -1,4 +1,13 @@
 # Teste Técnico - Frontend
+
+## Stack
+
+- React.js
+- Eslint/Prettier/editorconfig
+- Docker
+- Axios
+- Styled-components
+
 ## Comandos
   - Eslint/Prettier
     - Baixar extensão do eslint e prettier - code formatter
