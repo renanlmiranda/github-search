@@ -1,0 +1,13 @@
+version: '3.4'
+
+services:
+  githubsearch:
+    container_name: githubsearch
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    volumes:
+      - .:/home/node/frontend
+      - /home/node/frontend/node_modules
+    ports:
+      - 3000:3000
