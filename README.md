@@ -10,6 +10,7 @@
   - Docker
     - docker build -t github-search .
     - docker-compose up
+    -- No windows ele pode pedir para compartilhar o disco quando der o "docker build -t github-search ."
 
   - Deploy (Netlify)
     - https://optimistic-jackson-88f283.netlify.app/
