@@ -1,4 +1,4 @@
-# Teste Técnico - Frontend
+Frontend
 
 ## Stack
 
